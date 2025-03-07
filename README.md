@@ -5,9 +5,7 @@
 
 No. The setup is like Wordpad not open-source because of licensing.
 
-## Download
-
-[Download](https://github.com/Mealman1551/Bring-Wordpad-Back/raw/refs/heads/main/Windows%20Wordpad%20setup.exe)
+## [Download](https://github.com/Mealman1551/Bring-Wordpad-Back/raw/refs/heads/main/Windows%20Wordpad%20setup.exe)
 
 #### Copyright
 
